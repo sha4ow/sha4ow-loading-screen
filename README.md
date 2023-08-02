@@ -18,7 +18,7 @@ I am thrilled to announce the official release of sha4ow-loadingscreen v1.0.0! T
 
 💡 Helpful Links 💡
 - GitHub Repository: [[GitHub Repository URL](https://github.com/sha4ow/sha4ow-loading-screen)]
-- Support and Discussion: [[Discord URL](https://github.com/sha4ow/sha4ow-loading-screen)]
+- Support and Discussion: [[[Discord URL](https://discord.gg/Y4CWDas4w6)]
 
 🙏 Acknowledgments 🙏
 I extend my heartfelt gratitude to the FiveM community for your continuous support and feedback. I couldn't have reached this milestone without your invaluable contributions.
