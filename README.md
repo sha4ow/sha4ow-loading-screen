@@ -17,6 +17,7 @@ I am thrilled to announce the official release of sha4ow-loadingscreen v1.0.0! T
 4. Customize the settings in the index.html file to suit your server's preferences.
 
 💡 Helpful Links 💡
+- Preview [[video](https://streamable.com/x1iata)]
 - GitHub Repository: [[GitHub Repository URL](https://github.com/sha4ow/sha4ow-loading-screen)]
 - Support and Discussion: [[Discord URL](https://discord.gg/Y4CWDas4w6)]
 
